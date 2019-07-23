@@ -10,6 +10,10 @@ def tell_a_joke():
     print('This is a joke...')
 
 
+def shout():
+    print('shout!')
+
 introduce()
 add(2,2)
 tell_a_joke()
+shout()
