@@ -1,6 +1,5 @@
 def introduce():
-    print("Hello")
-    print("I'm Gittie!")
+    print("Hello, I'm Szymon!")
 
 def add(a, b)
     return a + b 
